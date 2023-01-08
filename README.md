@@ -10,5 +10,5 @@ The notebooks are used to explore the dataset and try various modeling technique
 | --- | --- | --- | --- | --- | --- |
 | FD001 | 1 (Sea Level) | 1 (HPC Degradation) | 100 | 100 | [**01_FD001**](#) :white_check_mark: |
 | FD002 | 6 | 1 (HPC Degradation) | 260 | 259 | [**03_FD002**](#) |
-| FD003 | 1 (Sea Level) | 2 (HPC Degradation, Fan Degradation) | 100 | 100 | [**02_FD003**](#) :white_check_mark: |
+| FD003 | 1 (Sea Level) | 2 (HPC Degradation, Fan Degradation) | 100 | 100 | [**02_FD003**](https://github.com/DennisxB/turbofan-predictive-maintenance/blob/main/02_FD003.ipynb) :white_check_mark: |
 | FD004 | 6 | 2 (HPC Degradation, Fan Degradation) | 248 | 249 | [**#**](#) |
